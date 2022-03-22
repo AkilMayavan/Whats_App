@@ -1,0 +1,11 @@
+This Project is to create the Whats App
+
+1) Create the chate field
+
+2) Create status feild
+
+3) Share the files like videos,audio and images
+
+4) Show the last seen
+
+5) set the display profile
