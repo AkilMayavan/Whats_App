@@ -11,3 +11,5 @@ This Project is to create the Whats App
 5) set the display profile
 
 6) Show the status only 30 min
+
+7) Add the video and audio call
