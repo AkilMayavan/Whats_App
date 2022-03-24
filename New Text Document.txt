@@ -13,3 +13,5 @@ This Project is to create the Whats App
 6) Show the status only 30 min
 
 7) Add the video and audio call
+
+8) playing games
